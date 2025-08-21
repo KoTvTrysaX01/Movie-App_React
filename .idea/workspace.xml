@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ed76019-f4a8-4319-be63-7a8005989ad1" name="Changes" comment="" />
+    <list default="true" id="2ed76019-f4a8-4319-be63-7a8005989ad1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/movie-app/public/Movie DND.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie-app/public/hero-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie-app/public/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie-app/public/no-movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie-app/public/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie-app/public/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie-app/src/components/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-app/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/movie-app/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-app/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/movie-app/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="31b9q32mCcc2P9DV2i7isXZMpQS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,15 +43,22 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/MyProjects/React/Movie Application/movie-app/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\MyProjects\React\Movie Application\movie-app\public" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755782092928</updated>
-      <workItem from="1755782093934" duration="490000" />
+      <workItem from="1755782093934" duration="632000" />
+      <workItem from="1755807065348" duration="4456000" />
     </task>
     <servers />
   </component>
