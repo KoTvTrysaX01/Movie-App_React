@@ -10,7 +10,7 @@ const Search = ({searchTerm, setSearchTerm}) => {
                 type={"text"}
                 placeholder={"Search through thousands of movies"}
                 defaultValue={searchTerm}
-                onChange={(e) => searchTerm = e.target.value}
+                onChange={(e) => searchTerm = e.target.defaultValue}
                 />
             </div>
         </div>
